@@ -1,11 +1,11 @@
-# 🚀 Cryptocurrency Market Sentiment Analysis: A Trasformers, Lexicon and classical Models based approach
+# Cryptocurrency Market Sentiment Analysis: A Trasformers, Lexicon and classical Models based approach
 
 **Author:** Teddy Thomas  
 **Last Updated:** May 2025
 
 ---
 
-## 🧠 Motivation
+## Motivation
 
 The cryptocurrency market is highly sentiment-driven, especially among retail investors who actively use platforms like [StockTwits](https://stocktwits.com).  
 Understanding user sentiment can help:
