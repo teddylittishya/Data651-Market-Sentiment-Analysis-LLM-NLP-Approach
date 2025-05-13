@@ -36,11 +36,11 @@ project_root/
 
 │
 
-├── data/ # Raw and processed data files
+├── data/ # link in readme
 
-├── notebooks/ # Jupyter/Colab notebooks for EDA and experiments
+├── notebooks/ # Pythonnotebooks for EDA and experiments
 
-├── src/ # Source code for preprocessing, modeling, evaluation
+├── src / executable_files/ # Source code for preprocessing, modeling, evaluation
 
 │ ├── preprocessing.py # Text cleaning and tokenization
 
