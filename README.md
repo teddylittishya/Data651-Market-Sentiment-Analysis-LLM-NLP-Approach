@@ -33,17 +33,29 @@ Accurately classify sentiment (Bullish, Bearish, Neutral) of user-generated post
 The project codebase follows a modular structure for clarity and maintainability:
 
 project_root/
+
 │
+
 ├── data/ # Raw and processed data files
+
 ├── notebooks/ # Jupyter/Colab notebooks for EDA and experiments
+
 ├── src/ # Source code for preprocessing, modeling, evaluation
+
 │ ├── preprocessing.py # Text cleaning and tokenization
+
 │ ├── feature_engineering.py # Vectorizers and embeddings
+
 │ ├── models.py # ML, embedding-based, and transformer models
+
 │ ├── utils.py # Helper functions and metrics
+
 │ └── config.py # Centralized configuration
+
 ├── requirements.txt # Dependency file
+
 ├── run_pipeline.py # End-to-end training + evaluation script
+
 └── README.md # Project documentation
 
 
