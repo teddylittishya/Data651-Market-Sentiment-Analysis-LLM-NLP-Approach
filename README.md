@@ -40,13 +40,8 @@ project_root/
 
 ├── notebooks/ # Pythonnotebooks for EDA and experiments
 
-├── src / executable_files/ # Source code for preprocessing, modeling, evaluation
+├── src / executable_files/ # Source code for preprocessing, modeling, evaluation & # ML, embedding-based, and transformer models
 
-│ ├── preprocessing.py # Text cleaning and tokenization
-
-│ ├── feature_engineering.py # Vectorizers and embeddings
-
-│ ├── models.py # ML, embedding-based, and transformer models
 
 │ ├── utils.py # Helper functions and metrics
 
