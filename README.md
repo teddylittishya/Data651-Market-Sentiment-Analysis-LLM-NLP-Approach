@@ -34,14 +34,13 @@ The project codebase follows a modular structure for clarity and maintainability
 
 project_root/
 
-│
-
+├── nlp_ppt.pdf/ # Powerpoint  slides documentation
+├── paper data651 # paper 
 ├── data/ # link in readme
 
-├── notebooks/ # Pythonnotebooks for EDA and experiments
+├── notebooks/ # Python notebooks for EDA and experiments
 
 ├── src / executable_files/ # Source code for preprocessing, modeling, evaluation & # ML, embedding-based, and transformer models
-
 
 │ ├── utils.py # Helper functions and metrics
 
