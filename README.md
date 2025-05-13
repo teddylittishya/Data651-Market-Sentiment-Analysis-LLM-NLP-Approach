@@ -71,9 +71,8 @@ The project is designed for full reproducibility:
 
 - ✅ **`requirements.txt`** to install dependencies
 - ✅ **Clear `README.md`** (this file) for setup and run instructions
-- ✅ **Executable scripts** (`run_pipeline.py`) for end-to-end training
 - ✅ **Random seed control** for consistent results
-- ✅ **Jupyter notebooks** for reproducible exploratory analysis
+- ✅ ** notebooks** for reproducible exploratory analysis
 
 > To get started:
 ```bash
