@@ -57,7 +57,7 @@ project_root/
 
 ## 💬 Comments and Inline Documentation
 
-All Python files in the `src/` directory are thoroughly documented with:
+All Python files in the  directory are thoroughly documented with:
 
 - **Function-level docstrings** describing inputs, outputs, and logic
 - **Inline comments** to explain preprocessing decisions, model configs, and evaluation logic
