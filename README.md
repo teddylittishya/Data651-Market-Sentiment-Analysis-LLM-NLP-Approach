@@ -79,7 +79,7 @@ The project is designed for full reproducibility:
 git clone https://github.com/teddylittishya/Data651-Market-Sentiment-Analysis-LLM-NLP-Approach.git
 cd crypto-sentiment-nlp
 pip install -r requirements.txt
-python run_pipeline.py
+
 
 
 
