@@ -50,7 +50,7 @@ All models are evaluated on the same test set using:
 
 ```
 
-git clone https://github.com/yourusername/crypto-sentiment-analysis.git
+git clone https://github.com/teddylittishya/Data651-Market-Sentiment-Analysis-LLM-NLP-Approach.git
 cd crypto-sentiment-analysis
 
 ```
