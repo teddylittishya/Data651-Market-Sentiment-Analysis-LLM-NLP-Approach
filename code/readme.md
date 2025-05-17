@@ -1,7 +1,4 @@
 
-
-# write me a readme file for the pipeline code
-
 ```markdown
 # Cryptocurrency Market Sentiment Analysis Pipeline
 
