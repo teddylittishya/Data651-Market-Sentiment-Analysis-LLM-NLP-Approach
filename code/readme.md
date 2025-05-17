@@ -4,8 +4,7 @@
 
 **Author:** Teddy Thomas  
 **Institution:** University of Maryland, College Park  
-**Cluster:** CBCB HPC Cluster  
-**Dataset:** [ElKulako/stocktwits-crypto](https://huggingface.co/datasets/ElKulako/stocktwits-crypto)  
+**Cluster:** CBCB HPC Cluster   
 **Citation:**  
 M. Kulakowski and F. Frasincar, "Sentiment Classification of Cryptocurrency-Related Social Media Posts," IEEE Intelligent Systems, vol. 38, no. 4, pp. 5-9, July-Aug. 2023, doi: 10.1109/MIS.2023.3283170.
 
@@ -147,26 +146,6 @@ python main.py --method bert --model lr
 
 ---
 
-## 📂 Repository Structure
-
-```
-
-├── data/                \# Data files (not included)
-├── notebooks/           \# EDA and experiments
-├── src/
-│   ├── features/        \# Feature engineering modules
-│   ├── models/          \# Model training scripts
-│   ├── processing/      \# Preprocessing utilities
-│   └── visualization/   \# EDA tools
-├── scripts/             \# SLURM and pipeline scripts
-├── requirements.txt     \# Python dependencies
-├── main.py              \# Pipeline entry point
-└── README.md
-
-```
-
----
-
 ## 📚 References
 
 1. M. Kulakowski and F. Frasincar, "Sentiment Classification of Cryptocurrency-Related Social Media Posts," IEEE Intelligent Systems, vol. 38, no. 4, pp. 5-9, July-Aug. 2023.
@@ -183,11 +162,8 @@ Special thanks to the CBCB HPC team and the open-source community.
 
 ## 📬 Contact
 
-For questions or contributions, open an issue or contact Teddy Thomas at [your-email@umd.edu].
+For questions or contributions, open an issue or contact Teddy Thomas at tedthom1@umd.edu
 
 ---
-```
 
-**Replace `yourusername` and `your-email@umd.edu` with your actual GitHub username and email.**
-This README is structured for clarity, reproducibility, and ease of use for HPC and NLP practitioners.
 
