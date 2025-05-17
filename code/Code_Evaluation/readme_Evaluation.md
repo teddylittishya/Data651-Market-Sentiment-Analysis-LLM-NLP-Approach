@@ -127,5 +127,3 @@ Evaluation results are saved in the `results/` directory as CSV and summary plot
 
 ---
 
-Let me know if you want an even more detailed evaluation section or code snippets for running specific models!
-
