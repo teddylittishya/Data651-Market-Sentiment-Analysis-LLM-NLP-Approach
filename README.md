@@ -28,7 +28,7 @@ Accurately classify sentiment (Bullish, Bearish, Neutral) of user-generated post
 
 ---
 
-## 💬 Comments and Inline Documentation
+## Comments and Inline Documentation
 
 All Python files in the  directory are thoroughly documented with:
 
@@ -38,7 +38,7 @@ All Python files in the  directory are thoroughly documented with:
 
 ---
 
-## 🔁 Reproducibility
+## Reproducibility
 
 The project is designed for full reproducibility:
 
