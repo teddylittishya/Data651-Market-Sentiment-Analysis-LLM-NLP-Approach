@@ -131,24 +131,5 @@ Evaluation results are saved in the `results/` directory as CSV and summary plot
 
 ---
 
-## Contact
-
-For questions, open an issue or contact Teddy Thomas at [your-email@umd.edu](mailto:your-email@umd.edu).
-
----
-
-*Thank you for using this codebase! If you use this work, please cite the original dataset and this repository.*
-
-```
-
-
----
-
-**Instructions:**
-
-- Save the above as `README.Rmd` in your repository.
-- Render to Markdown with [RStudio](https://www.rstudio.com/) or `rmarkdown::render("README.Rmd")` if you want a `README.md`.
-- Update links and contact info as needed.
-
 Let me know if you want an even more detailed evaluation section or code snippets for running specific models!
 
