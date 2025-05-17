@@ -1,10 +1,6 @@
 
 
 
----
-title: "Cryptocurrency Market Sentiment Analysis: Code Evaluation"
-output: github_document
----
 
 # Cryptocurrency Market Sentiment Analysis
 
