@@ -1,5 +1,4 @@
 
-```markdown
 # Cryptocurrency Market Sentiment Analysis Pipeline
 
 **Author:** Teddy Thomas  
@@ -152,11 +151,6 @@ python main.py --method bert --model lr
 2. J. Devlin et al., “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,” NAACL-HLT, 2019.
 3. Databricks 2025. Apache, Apache Spark, Spark and the Spark logo are trademarks of the Apache Software Foundation.
 
----
-
-## 🙏 Acknowledgments
-
-Special thanks to the CBCB HPC team and the open-source community.
 
 ---
 
