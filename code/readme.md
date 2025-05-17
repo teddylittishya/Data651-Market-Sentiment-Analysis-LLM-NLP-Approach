@@ -9,7 +9,7 @@ M. Kulakowski and F. Frasincar, "Sentiment Classification of Cryptocurrency-Rela
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project implements a scalable, modular pipeline for **sentiment classification** of cryptocurrency-related StockTwits posts. It leverages **lexicon-based**, **classical machine learning**, and **transformer-based** NLP models, optimized for distributed processing on the CBCB HPC cluster using Apache Spark and GPU acceleration.
 
@@ -21,7 +21,7 @@ This project implements a scalable, modular pipeline for **sentiment classificat
 
 ---
 
-## 📊 Problem Statement
+## Problem Statement
 
 **Objective:**  
 Classify StockTwits posts related to Bitcoin, Ethereum, and Shiba Inu as:
@@ -34,7 +34,7 @@ Compare the performance of different NLP approaches for accurate, scalable senti
 
 ---
 
-## 🗃️ Dataset
+## Dataset
 
 - **Source:** StockTwits (ElKulako/stocktwits-crypto)
 - **Period:** Train: Nov 2021–Jun 2022 | Test: Jun 2022
@@ -44,7 +44,7 @@ Compare the performance of different NLP approaches for accurate, scalable senti
 
 ---
 
-## 🏗️ Pipeline Architecture
+## Pipeline Architecture
 
 1. **Data Loading:** Distributed loading from Parquet files.
 2. **Preprocessing:**  
@@ -65,13 +65,13 @@ Compare the performance of different NLP approaches for accurate, scalable senti
 
 ---
 
-## ⚡ Quickstart
+## Quickstart
 
 ### 1. Clone the Repository
 
 ```
 
-git clone https://github.com/yourusername/crypto-sentiment-pipeline.git
+git clone https://github.com/teddylittishya/Data651-Market-Sentiment-Analysis-LLM-NLP-Approach.git
 cd crypto-sentiment-pipeline
 
 ```
