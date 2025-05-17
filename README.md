@@ -43,9 +43,9 @@ All Python files in the  directory are thoroughly documented with:
 The project is designed for full reproducibility:
 
 -  **`requirements.txt`** to install dependencies
-- ** Clear `README.md`** (this file) for setup and run instructions
+- **Clear `README.md`** (this file) for setup and run instructions
 -  **Random seed control** for consistent results
-- ** notebooks** for reproducible exploratory analysis
+- **notebooks** for reproducible exploratory analysis
 
 > To get started:
 ```bash
