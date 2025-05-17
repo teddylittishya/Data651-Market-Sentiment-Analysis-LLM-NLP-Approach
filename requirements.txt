@@ -1,0 +1,43 @@
+# Core Python
+python>=3.10
+
+# Data Manipulation
+pandas>=2.0.0
+numpy>=1.23.0
+
+# NLP & Preprocessing
+nltk>=3.8.1
+vaderSentiment>=3.3.2
+regex>=2023.12.25
+
+# Classical ML
+scikit-learn>=1.4.0
+
+# Word Embeddings
+gensim>=4.3.0
+
+# Transformers & Deep Learning
+transformers>=4.39.0
+torch>=2.2.0
+
+# Distributed Computing
+pyspark>=3.5.0
+
+# Progress Bars & Utilities
+tqdm>=4.66.0
+
+# Visualization (optional, for EDA and results)
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# HPC/Cluster Support (optional, for SLURM job submission)
+slurm-pipeline>=0.2.0
+
+# Jupyter (optional, for notebooks)
+jupyterlab>=4.0.0
+
+# For compatibility with HuggingFace datasets (optional)
+datasets>=2.18.0
+
+# For Unicode emoji handling (optional)
+emoji>=2.10.0
