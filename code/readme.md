@@ -3,7 +3,7 @@
 # Cryptocurrency Market Sentiment Analysis Pipeline
 
 **Author:** Teddy Thomas  
-**Institution:** CBCB, University of Maryland, College Park  
+**Institution:** University of Maryland, College Park  
 **Cluster:** CBCB HPC Cluster  
 **Dataset:** [ElKulako/stocktwits-crypto](https://huggingface.co/datasets/ElKulako/stocktwits-crypto)  
 **Citation:**  
