@@ -16,7 +16,7 @@ Understanding user sentiment can help:
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 
 **Objective:**  
 Accurately classify sentiment (Bullish, Bearish, Neutral) of user-generated posts on StockTwits related to cryptocurrencies (Bitcoin, Ethereum, Shiba Inu) using a mix of:
@@ -25,33 +25,6 @@ Accurately classify sentiment (Bullish, Bearish, Neutral) of user-generated post
 - Classical machine learning classifiers
 - Word embeddings
 - Transformer-based NLP models
-
----
-
-## 🗃️ Code Structure (Modular Design)
-
-The project codebase follows a modular structure for clarity and maintainability:
-
-project_root/
-
-├── nlp_ppt.pdf/ # Powerpoint  slides documentation
-├── paper data651 # paper 
-├── data/ # link in readme
-
-├── notebooks/ # Python notebooks for EDA and experiments
-
-├── src / executable_files/ # Source code for preprocessing, modeling, evaluation & # ML, embedding-based, and transformer models
-
-│ ├── utils.py # Helper functions and metrics
-
-│ └── config.py # Centralized configuration
-
-├── requirements.txt # Dependency file
-
-├── run_pipeline.py # End-to-end training + evaluation script
-
-└── README.md # Project documentation
-
 
 ---
 
